@@ -84,6 +84,9 @@ a:after {
   padding: 0;
 }
 
+img {
+  max-width: 100%;
+}
 
 .navbar {
 	font-weight: 800;
